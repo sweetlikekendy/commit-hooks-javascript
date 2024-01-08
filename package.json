@@ -4,7 +4,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.4",
+    "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^16.2.4",
     "husky": "^7.0.4",
     "jest": "^28.0.2"
